@@ -111,6 +111,7 @@ namespace ClassesKNUTE.Classes
             Patronym = patronym;
             Birthdate = birthdate;
             IDcode = idCode;
+            Loyalty = loyalty;
         }
     }
 }
